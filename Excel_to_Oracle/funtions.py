@@ -9,7 +9,7 @@ def cleaning(data):
 
     #for removing space from the data in cloumns for all columns 
     #with data type as string
-    
+
     data = data.applymap(lambda x : x.strip() if isinstance(x,str) else x)
 
     #for checking and handling duplicates from the data frame
@@ -23,8 +23,8 @@ def cleaning(data):
 
 def connecting(new):
     try:
-        connection = cx_Oracle.connect(user="system", password = "123456789", 
-                                   dsn = "localhost/xe")
+        connection = cx_Oracle.connect(user="???", password = "???", 
+                                   dsn = "??/??")
     
         cursor = connection.cursor()
 
