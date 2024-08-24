@@ -1,0 +1,55 @@
+2024-Aug-25-01:41:36,Connecting to the browser
+2024-Aug-25-01:41:42,Url Hit success
+2024-Aug-25-01:41:42,Creating Json file
+2024-Aug-25-01:41:42,Json created sucess
+2024-Aug-25-01:41:42,Creating Database
+2024-Aug-25-01:41:42,Database Created
+2024-Aug-25-01:41:46,Extracting sql result
+2024-Aug-25-01:43:33,Connecting to the browser
+2024-Aug-25-01:43:35,Url Hit success
+2024-Aug-25-01:43:35,Creating Json file
+2024-Aug-25-01:43:35,Json created sucess
+2024-Aug-25-01:43:35,Creating Database
+2024-Aug-25-01:43:35,Database Created
+2024-Aug-25-01:43:37,Extracting sql result
+2024-Aug-25-01:44:13,Connecting to the browser
+2024-Aug-25-01:44:15,Url Hit success
+2024-Aug-25-01:44:15,Creating Json file
+2024-Aug-25-01:44:15,Json created sucess
+2024-Aug-25-01:44:15,Creating Database
+2024-Aug-25-01:44:15,Database Created
+2024-Aug-25-01:44:18,Extracting sql result
+2024-Aug-25-01:45:02,Connecting to the browser
+2024-Aug-25-01:45:03,Url Hit success
+2024-Aug-25-01:45:03,Creating Json file
+2024-Aug-25-01:45:03,Json created sucess
+2024-Aug-25-01:45:03,Creating Database
+2024-Aug-25-01:45:03,Database Created
+2024-Aug-25-01:45:20,Connecting to the browser
+2024-Aug-25-01:45:21,Url Hit success
+2024-Aug-25-01:45:21,Creating Json file
+2024-Aug-25-01:45:21,Json created sucess
+2024-Aug-25-01:45:21,Creating Database
+2024-Aug-25-01:45:21,Database Created
+2024-Aug-25-01:45:23,Extracting sql result
+2024-Aug-25-01:47:21,Connecting to the browser
+2024-Aug-25-01:47:25,Url Hit success
+2024-Aug-25-01:47:25,Creating Json file
+2024-Aug-25-01:47:25,Json created sucess
+2024-Aug-25-01:47:25,Creating Database
+2024-Aug-25-01:47:25,Database Created
+2024-Aug-25-01:47:27,Extracting sql result
+2024-Aug-25-01:51:00,Connecting to the browser
+2024-Aug-25-01:51:01,Url Hit success
+2024-Aug-25-01:51:01,Creating Json file
+2024-Aug-25-01:51:01,Json created sucess
+2024-Aug-25-01:51:01,Creating Database
+2024-Aug-25-01:51:01,Database Created
+2024-Aug-25-01:51:03,Extracting sql result
+2024-Aug-25-01:51:41,Connecting to the browser
+2024-Aug-25-01:51:43,Url Hit success
+2024-Aug-25-01:51:43,Creating Json file
+2024-Aug-25-01:51:43,Json created sucess
+2024-Aug-25-01:51:43,Creating Database
+2024-Aug-25-01:51:43,Database Created
+2024-Aug-25-01:51:45,Extracting sql result
