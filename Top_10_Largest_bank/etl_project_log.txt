@@ -1,0 +1,8 @@
+2024-Aug-25-18:26:25,Connecting to the browser
+2024-Aug-25-18:26:28,Url Hit success
+2024-Aug-25-18:26:28,Transforming Data
+2024-Aug-25-18:26:28,Transformation Done
+2024-Aug-25-18:26:28,Creating Json file
+2024-Aug-25-18:26:28,Json created sucess
+2024-Aug-25-18:26:28,Creating Database
+2024-Aug-25-18:26:28,Database Created

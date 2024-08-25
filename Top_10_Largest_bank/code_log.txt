@@ -1,0 +1,25 @@
+2024-Aug-25-19:27:11,Enter Query
+2024-Aug-25-19:30:57,Enter Query
+2024-Aug-25-19:31:34,Extracting data
+2024-Aug-25-19:37:09,Enter Query
+2024-Aug-25-19:37:12,Extracting data
+2024-Aug-25-19:51:47,Enter Query
+2024-Aug-25-19:52:18,Extracting data
+2024-Aug-25-19:55:20,Start Extract
+2024-Aug-25-19:55:23,Extract done
+2024-Aug-25-19:55:23,Transformation Started
+2024-Aug-25-19:55:23,Transformation Done
+2024-Aug-25-19:55:23,Writing to Database
+2024-Aug-25-19:55:23,Done Writing
+2024-Aug-25-19:55:23,Write to csv
+2024-Aug-25-19:55:23,csv created
+2024-Aug-25-19:55:27,Enter Query
+2024-Aug-25-19:55:37,Extracting data
+2024-Aug-25-20:01:18,Start Extract
+2024-Aug-25-20:01:20,Extract done
+2024-Aug-25-20:01:20,Transformation Started
+2024-Aug-25-20:01:20,Transformation Done
+2024-Aug-25-20:01:35,Start Extract
+2024-Aug-25-20:01:37,Extract done
+2024-Aug-25-20:01:37,Transformation Started
+2024-Aug-25-20:01:37,Transformation Done
