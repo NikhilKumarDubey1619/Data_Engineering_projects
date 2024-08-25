@@ -3,6 +3,7 @@ import sqlite3
 from bs4 import BeautifulSoup
 import requests
 from datetime import datetime
+import re
 
 url = 'https://web.archive.org/web/20230902185326/https://en.wikipedia.org/wiki/List_of_countries_by_GDP_%28nominal%29'
 db_name = 'World_Economies.db'
@@ -33,18 +34,28 @@ def browser(ul):
         col = row.find_all(['td'])
 
         if len(col)>=3:
+            
             my_data ={
                   "Country":col[0].get_text(strip=True),
                   "GDP" : col[2].get_text(strip=True)
             } 
             df1 = pd.DataFrame(my_data,index=[0])
             df = pd.concat([df,df1],ignore_index=True)
+            #print(df)
     return df
 
 
-def to_json_file(df,j_path):
-    df.drop(0,inplace=True)        
+def to_json_file(df,j_path):        
     df.to_json(j_path,index=False)
+
+def transform(Data_frame):
+    
+    Data_frame["GDP"] = Data_frame["GDP"].replace(',','',regex = True)
+    Data_frame["GDP"] = Data_frame["GDP"].replace('—', float('nan'))
+    Data_frame["GDP"] = pd.to_numeric(Data_frame["GDP"])
+    Data_frame["GDP"] = round(Data_frame.GDP * 0.001,2)
+    return Data_frame
+
 
 
 def insert_to_db(d_name,t_name,df):
@@ -62,12 +73,16 @@ logger("Connecting to the browser")
 dframe = browser(url)
 logger("Url Hit success")
 
+logger("Transforming Data")
+new_df = transform(dframe)
+logger("Transformation Done")
+
 logger("Creating Json file")
-to_json_file(dframe,json_path)
+to_json_file(new_df,json_path)
 logger("Json created sucess")
 
 logger("Creating Database")
-insert_to_db(db_name,table_name,dframe)
+insert_to_db(db_name,table_name,new_df)
 logger("Database Created")
 
 response = input("Do you want to fire query to table (y/n):")

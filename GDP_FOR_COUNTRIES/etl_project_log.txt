@@ -53,3 +53,227 @@
 2024-Aug-25-01:51:43,Creating Database
 2024-Aug-25-01:51:43,Database Created
 2024-Aug-25-01:51:45,Extracting sql result
+2024-Aug-25-02:03:28,Connecting to the browser
+2024-Aug-25-02:03:31,Url Hit success
+2024-Aug-25-02:03:31,Transforming Data
+2024-Aug-25-02:04:05,Connecting to the browser
+2024-Aug-25-02:06:47,Connecting to the browser
+2024-Aug-25-02:07:14,Connecting to the browser
+2024-Aug-25-02:08:56,Connecting to the browser
+2024-Aug-25-02:10:43,Connecting to the browser
+2024-Aug-25-02:11:47,Connecting to the browser
+2024-Aug-25-02:17:46,Connecting to the browser
+2024-Aug-25-02:17:49,Url Hit success
+2024-Aug-25-02:17:49,Transforming Data
+2024-Aug-25-02:19:07,Connecting to the browser
+2024-Aug-25-02:19:08,Url Hit success
+2024-Aug-25-02:19:08,Transforming Data
+2024-Aug-25-02:19:28,Connecting to the browser
+2024-Aug-25-02:19:30,Url Hit success
+2024-Aug-25-02:19:30,Transforming Data
+2024-Aug-25-09:29:05,Connecting to the browser
+2024-Aug-25-09:29:08,Url Hit success
+2024-Aug-25-09:29:08,Transforming Data
+2024-Aug-25-09:29:46,Connecting to the browser
+2024-Aug-25-09:29:48,Url Hit success
+2024-Aug-25-09:29:48,Transforming Data
+2024-Aug-25-09:30:11,Connecting to the browser
+2024-Aug-25-09:30:13,Url Hit success
+2024-Aug-25-09:30:13,Transforming Data
+2024-Aug-25-09:31:18,Connecting to the browser
+2024-Aug-25-09:31:21,Url Hit success
+2024-Aug-25-09:31:21,Transforming Data
+2024-Aug-25-09:31:35,Connecting to the browser
+2024-Aug-25-09:31:36,Url Hit success
+2024-Aug-25-09:31:36,Transforming Data
+2024-Aug-25-09:37:51,Connecting to the browser
+2024-Aug-25-09:38:40,Connecting to the browser
+2024-Aug-25-09:43:56,Connecting to the browser
+2024-Aug-25-09:44:00,Url Hit success
+2024-Aug-25-09:44:00,Transforming Data
+2024-Aug-25-09:45:07,Connecting to the browser
+2024-Aug-25-09:45:09,Url Hit success
+2024-Aug-25-09:45:09,Transforming Data
+2024-Aug-25-09:48:02,Connecting to the browser
+2024-Aug-25-09:48:04,Url Hit success
+2024-Aug-25-09:48:04,Transforming Data
+2024-Aug-25-09:48:04,Transformation Done
+2024-Aug-25-09:48:04,Creating Json file
+2024-Aug-25-09:48:04,Json created sucess
+2024-Aug-25-09:48:04,Creating Database
+2024-Aug-25-09:48:04,Database Created
+2024-Aug-25-09:49:16,Connecting to the browser
+2024-Aug-25-09:49:19,Url Hit success
+2024-Aug-25-09:49:19,Transforming Data
+2024-Aug-25-09:49:19,Transformation Done
+2024-Aug-25-09:49:19,Creating Json file
+2024-Aug-25-09:49:19,Json created sucess
+2024-Aug-25-09:49:19,Creating Database
+2024-Aug-25-09:49:19,Database Created
+2024-Aug-25-09:49:22,Closing Program
+2024-Aug-25-09:50:15,Connecting to the browser
+2024-Aug-25-09:50:16,Url Hit success
+2024-Aug-25-09:50:16,Transforming Data
+2024-Aug-25-09:50:16,Transformation Done
+2024-Aug-25-09:50:16,Creating Json file
+2024-Aug-25-09:50:16,Json created sucess
+2024-Aug-25-09:50:16,Creating Database
+2024-Aug-25-09:50:16,Database Created
+2024-Aug-25-09:50:19,Closing Program
+2024-Aug-25-09:52:12,Connecting to the browser
+2024-Aug-25-09:52:14,Url Hit success
+2024-Aug-25-09:52:14,Transforming Data
+2024-Aug-25-09:53:29,Connecting to the browser
+2024-Aug-25-09:53:30,Url Hit success
+2024-Aug-25-09:53:30,Transforming Data
+2024-Aug-25-09:57:02,Connecting to the browser
+2024-Aug-25-09:57:04,Url Hit success
+2024-Aug-25-09:57:04,Transforming Data
+2024-Aug-25-09:58:04,Connecting to the browser
+2024-Aug-25-09:58:06,Url Hit success
+2024-Aug-25-09:58:06,Transforming Data
+2024-Aug-25-09:58:50,Connecting to the browser
+2024-Aug-25-09:58:52,Url Hit success
+2024-Aug-25-09:58:52,Transforming Data
+2024-Aug-25-09:58:52,Transformation Done
+2024-Aug-25-09:58:52,Creating Json file
+2024-Aug-25-10:00:00,Connecting to the browser
+2024-Aug-25-10:00:02,Url Hit success
+2024-Aug-25-10:00:02,Transforming Data
+2024-Aug-25-10:00:02,Transformation Done
+2024-Aug-25-10:00:02,Creating Json file
+2024-Aug-25-10:00:02,Json created sucess
+2024-Aug-25-10:00:02,Creating Database
+2024-Aug-25-10:00:02,Database Created
+2024-Aug-25-10:00:04,Closing Program
+2024-Aug-25-10:01:59,Connecting to the browser
+2024-Aug-25-10:02:01,Url Hit success
+2024-Aug-25-10:02:01,Transforming Data
+2024-Aug-25-10:02:01,Transformation Done
+2024-Aug-25-10:02:01,Creating Json file
+2024-Aug-25-10:02:01,Json created sucess
+2024-Aug-25-10:02:01,Creating Database
+2024-Aug-25-10:02:01,Database Created
+2024-Aug-25-10:02:21,Connecting to the browser
+2024-Aug-25-10:02:23,Url Hit success
+2024-Aug-25-10:02:23,Transforming Data
+2024-Aug-25-10:02:23,Transformation Done
+2024-Aug-25-10:02:23,Creating Json file
+2024-Aug-25-10:02:23,Json created sucess
+2024-Aug-25-10:02:23,Creating Database
+2024-Aug-25-10:02:23,Database Created
+2024-Aug-25-10:02:51,Connecting to the browser
+2024-Aug-25-10:02:53,Url Hit success
+2024-Aug-25-10:02:53,Transforming Data
+2024-Aug-25-10:03:35,Connecting to the browser
+2024-Aug-25-10:03:37,Url Hit success
+2024-Aug-25-10:03:37,Transforming Data
+2024-Aug-25-10:03:37,Transformation Done
+2024-Aug-25-10:03:37,Creating Json file
+2024-Aug-25-10:03:37,Json created sucess
+2024-Aug-25-10:03:37,Creating Database
+2024-Aug-25-10:03:37,Database Created
+2024-Aug-25-10:04:56,Connecting to the browser
+2024-Aug-25-10:05:23,Connecting to the browser
+2024-Aug-25-10:05:25,Url Hit success
+2024-Aug-25-10:05:25,Transforming Data
+2024-Aug-25-10:06:33,Connecting to the browser
+2024-Aug-25-10:06:36,Url Hit success
+2024-Aug-25-10:06:36,Transforming Data
+2024-Aug-25-10:07:05,Connecting to the browser
+2024-Aug-25-10:07:07,Url Hit success
+2024-Aug-25-10:07:07,Transforming Data
+2024-Aug-25-10:11:13,Connecting to the browser
+2024-Aug-25-10:11:17,Url Hit success
+2024-Aug-25-10:11:17,Transforming Data
+2024-Aug-25-10:11:28,Connecting to the browser
+2024-Aug-25-10:11:30,Url Hit success
+2024-Aug-25-10:11:30,Transforming Data
+2024-Aug-25-10:11:30,Transformation Done
+2024-Aug-25-10:11:30,Creating Json file
+2024-Aug-25-10:11:30,Json created sucess
+2024-Aug-25-10:11:30,Creating Database
+2024-Aug-25-10:11:30,Database Created
+2024-Aug-25-10:11:49,Connecting to the browser
+2024-Aug-25-10:11:52,Url Hit success
+2024-Aug-25-10:11:52,Transforming Data
+2024-Aug-25-10:11:52,Transformation Done
+2024-Aug-25-10:11:52,Creating Json file
+2024-Aug-25-10:11:52,Json created sucess
+2024-Aug-25-10:11:52,Creating Database
+2024-Aug-25-10:11:52,Database Created
+2024-Aug-25-10:12:04,Connecting to the browser
+2024-Aug-25-10:12:06,Url Hit success
+2024-Aug-25-10:12:06,Transforming Data
+2024-Aug-25-10:12:06,Transformation Done
+2024-Aug-25-10:12:06,Creating Json file
+2024-Aug-25-10:12:06,Json created sucess
+2024-Aug-25-10:12:06,Creating Database
+2024-Aug-25-10:12:06,Database Created
+2024-Aug-25-10:12:30,Connecting to the browser
+2024-Aug-25-10:12:31,Url Hit success
+2024-Aug-25-10:12:31,Transforming Data
+2024-Aug-25-10:12:31,Transformation Done
+2024-Aug-25-10:12:31,Creating Json file
+2024-Aug-25-10:12:31,Json created sucess
+2024-Aug-25-10:12:31,Creating Database
+2024-Aug-25-10:12:31,Database Created
+2024-Aug-25-10:12:48,Connecting to the browser
+2024-Aug-25-10:12:49,Url Hit success
+2024-Aug-25-10:12:49,Transforming Data
+2024-Aug-25-10:12:49,Transformation Done
+2024-Aug-25-10:12:49,Creating Json file
+2024-Aug-25-10:12:49,Json created sucess
+2024-Aug-25-10:12:49,Creating Database
+2024-Aug-25-10:12:49,Database Created
+2024-Aug-25-10:13:34,Connecting to the browser
+2024-Aug-25-10:13:36,Url Hit success
+2024-Aug-25-10:13:36,Transforming Data
+2024-Aug-25-10:13:36,Transformation Done
+2024-Aug-25-10:13:36,Creating Json file
+2024-Aug-25-10:13:36,Json created sucess
+2024-Aug-25-10:13:36,Creating Database
+2024-Aug-25-10:13:36,Database Created
+2024-Aug-25-10:14:40,Connecting to the browser
+2024-Aug-25-10:14:42,Url Hit success
+2024-Aug-25-10:14:42,Transforming Data
+2024-Aug-25-10:14:42,Transformation Done
+2024-Aug-25-10:14:42,Creating Json file
+2024-Aug-25-10:14:42,Json created sucess
+2024-Aug-25-10:14:42,Creating Database
+2024-Aug-25-10:14:42,Database Created
+2024-Aug-25-10:14:56,Connecting to the browser
+2024-Aug-25-10:14:57,Url Hit success
+2024-Aug-25-10:14:57,Transforming Data
+2024-Aug-25-10:14:57,Transformation Done
+2024-Aug-25-10:14:57,Creating Json file
+2024-Aug-25-10:14:57,Json created sucess
+2024-Aug-25-10:14:57,Creating Database
+2024-Aug-25-10:14:57,Database Created
+2024-Aug-25-10:15:24,Connecting to the browser
+2024-Aug-25-10:15:26,Url Hit success
+2024-Aug-25-10:15:26,Transforming Data
+2024-Aug-25-10:15:26,Transformation Done
+2024-Aug-25-10:15:26,Creating Json file
+2024-Aug-25-10:15:26,Json created sucess
+2024-Aug-25-10:15:26,Creating Database
+2024-Aug-25-10:15:26,Database Created
+2024-Aug-25-10:15:32,Extracting sql result
+2024-Aug-25-10:16:28,Connecting to the browser
+2024-Aug-25-10:16:30,Url Hit success
+2024-Aug-25-10:16:30,Transforming Data
+2024-Aug-25-10:16:30,Transformation Done
+2024-Aug-25-10:16:30,Creating Json file
+2024-Aug-25-10:16:30,Json created sucess
+2024-Aug-25-10:16:30,Creating Database
+2024-Aug-25-10:16:30,Database Created
+2024-Aug-25-10:16:33,Closing Program
+2024-Aug-25-10:17:25,Connecting to the browser
+2024-Aug-25-10:17:27,Url Hit success
+2024-Aug-25-10:17:27,Transforming Data
+2024-Aug-25-10:17:27,Transformation Done
+2024-Aug-25-10:17:27,Creating Json file
+2024-Aug-25-10:17:27,Json created sucess
+2024-Aug-25-10:17:27,Creating Database
+2024-Aug-25-10:17:27,Database Created
+2024-Aug-25-10:17:29,Closing Program
