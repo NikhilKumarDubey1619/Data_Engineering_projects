@@ -92,24 +92,24 @@ d = transform(Data1)
 print(d)
 log_progress("Transformation Done")
 
-# log_progress("Writing to Database")
-# load_to_db(d,db_name,table_name)
-# log_progress("Done Writing")
+log_progress("Writing to Database")
+load_to_db(d,db_name,table_name)
+log_progress("Done Writing")
 
-# log_progress("Write to csv")
-# load_to_csv(d,csv_path)
-# log_progress("csv created")
+log_progress("Write to csv")
+load_to_csv(d,csv_path)
+log_progress("csv created")
 
-# ch = input("You want to run queries(y/n):")
-# if ch == 'y':
-#     log_progress("Enter Query")
-#     query = input("Enter the query:")
-#     final_set = run_query(query,db_name,table_name)
-#     print(final_set)
-#     log_progress("Extracting data")
-# else:
-#     log_progress("Exiting the process")
-#     print("Process Completed")
+ch = input("You want to run queries(y/n):")
+if ch == 'y':
+    log_progress("Enter Query")
+    query = input("Enter the query:")
+    final_set = run_query(query,db_name,table_name)
+    print(final_set)
+    log_progress("Extracting data")
+else:
+    log_progress("Exiting the process")
+    print("Process Completed")
 
 
 
