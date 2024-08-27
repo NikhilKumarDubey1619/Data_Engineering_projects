@@ -7,12 +7,11 @@ def parsedLine(line):
     fields = line.split(',')
     Stationid = fields[0]
     category = fields[2]
-    cel_temp = (float(fields[3]) * 1.8) + 32
+    cel_temp = (float(fields[3]) * 0.18) + 32
     return(Stationid,category,cel_temp)
 
 
-
-lines = sc.textFile("file:///SparkCourse/Min_temprature_by_weather_station/1800.csv")
+lines = sc.textFile("file:///DADE/Spark_Projects/Min_temprature_by_weather_station/1800.csv")
 parsedresult = lines.map(parsedLine)
 
 min_temp = parsedresult.filter(lambda x : "TMIN" in x[1])

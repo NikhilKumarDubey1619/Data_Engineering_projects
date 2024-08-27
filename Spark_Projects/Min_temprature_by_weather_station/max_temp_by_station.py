@@ -4,7 +4,7 @@ def parseline(lines):
     fields = lines.split(',')
     stationid = fields[0]
     entrytypes = fields[2]
-    celcius_temp = (float(fields[3])*1.8) + 32
+    celcius_temp = (float(fields[3])*0.18) + 32
     return (stationid,entrytypes,celcius_temp)
 
 
@@ -13,7 +13,7 @@ sc = SparkContext(conf=conf)
 
 
 
-rdd_line = sc.textFile("file:///SparkCourse/Min_temprature_by_weather_station/1800.csv")
+rdd_line = sc.textFile("file:///DADE/Spark_Projects/Min_temprature_by_weather_station/1800.csv")
 rdd_parse = rdd_line.map(parseline)
 
 rdd_filter = rdd_parse.filter(lambda x:'TMAX' in x[1])
